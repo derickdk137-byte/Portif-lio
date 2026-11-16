@@ -27,7 +27,7 @@ A página está dividida em Perfil, Habilidades, Projetos e Contato. O menu perm
 
 Na seção de habilidades, apresento meus conhecimentos em Python, Linux, SSH e automações. Em Projetos, estão os links dos meus repositórios. Os contatos levam ao meu GitHub e ao LinkedIn.
 
-Escolhi preto e dourado, com alguns detalhes em azul escuro. No modo escuro, o preto predomina. No modo claro, os tons de dourado e creme ficam mais presentes.
+Escolhi preto e dourado como as cores dominantes. No modo escuro, o preto predomina. No modo claro, os tons de dourado e creme ficam mais presentes.
 
 ## Recurso novo: troca de tema
 
